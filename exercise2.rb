@@ -9,4 +9,4 @@ def negative? (my_number)
   end
 end
 
-puts negative? (my_number)
+puts "Your number is negative, #{negative? (my_number)}!"
