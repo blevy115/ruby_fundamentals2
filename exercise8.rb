@@ -48,10 +48,6 @@ else
   puts "Well done everyone!"
 end
 
-puts speed_1
-puts speed_2
-puts speed_3
-
 # i=1
 # until i==4
 #   puts "How far did person #{i} run (in meters)"
